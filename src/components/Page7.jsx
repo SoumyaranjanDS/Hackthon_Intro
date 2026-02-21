@@ -59,7 +59,7 @@ const Page6CTA = () => {
             style={{ x: dx, y: dy }}
             className="text-teal-500 font-mono tracking-[1em] uppercase text-[10px] mb-8"
           >
-            The Vision [cite: 223]
+            The Vision
           </motion.h2>
 
           <motion.div 
